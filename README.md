@@ -1,2 +1,1 @@
 # Rift.io
-practice page
